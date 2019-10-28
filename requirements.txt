@@ -1,4 +1,4 @@
-dlib==19.8.1; sys_platform == 'windows'
+dlib==19.8.1; sys_platform == 'macos'
 dlib; sys_platform == 'darwin'
 face_recognition==1.2.2
 pillow
